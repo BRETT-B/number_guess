@@ -2,7 +2,7 @@ import random
 import subprocess
 
 low = 1
-high = 20
+high = 50
 limit = 5
 
 print("Guess a number between {} and {}".format(low, high))
